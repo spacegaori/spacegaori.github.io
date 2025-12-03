@@ -1,0 +1,9 @@
+# Jekyll Build Output
+_site/
+
+# Local Ruby/Bundler Files
+vendor/
+.bundle/
+.sass-cache/
+.jekyll-cache/
+
